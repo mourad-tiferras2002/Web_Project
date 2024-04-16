@@ -16,7 +16,7 @@
 <ul>
   <li>Front-end: HTML/CSS</li>
   <li>Back-end: Python/Flask</li>
-  <li>Hosing: localhost</li>
+  <li>Hosting: localhost</li>
 </ul>
 
 ## Development Plan
